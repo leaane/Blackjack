@@ -1,6 +1,0 @@
-#ifndef CS8_RANK_H
-#define CS8_RANK_H
-
-enum Rank{ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING};
-
-#endif //CS8_RANK_H
