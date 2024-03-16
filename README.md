@@ -1,2 +1,1 @@
-# Blackjack
-Blackjack using SFML
+This program is a replication of the card game blackjack. When you run the program, both your hand and the dealer's hand are dealt. If you feel like you can get closer to 21 without busting, you're allowed to hit (but only once) by pressing the hit button. When you're ready to play your hand (regardless if you hit or not), you press the play button. Once the play button is pressed, the dealer's hand will be revealed and the winner will be announced below. If you want to play again, you'll press the "Play Again?" button and the program will rerun the game.
